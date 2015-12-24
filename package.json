@@ -29,7 +29,6 @@
     "pause"             :  "0.0.1",
     "send"              :  "0.1.x",
     "connect"           :  "2.7.x",
-    "webkit-devtools-agent" :  "*",
     "client-sessions"   :  "0.6.x",
     "should"         	:  "1.2.x",
     "sinon"          	:  "1.7.x",
